@@ -16,12 +16,15 @@
 1. **数据准备**  
    - 将数据集放在合适的目录下，并在代码中修改 `dataset_path`
 2. **环境配置**  
- Python 3.8+ (建议使用 3.8 或更高版本)
- numpy == 1.20.0  或以上版本
- pandas == 1.2.0  或以上版本
- scikit-learn == 0.24.0 或以上版本
- lightgbm == 3.2.0     或以上版本
- Pillow == 8.1.0       或以上版本
+```plaintext
+Python 3.8+ (建议使用 3.8 或更高版本)
+numpy == 1.20.0  或以上版本
+pandas == 1.2.0  或以上版本
+scikit-learn == 0.24.0 或以上版本
+lightgbm == 3.2.0     或以上版本
+Pillow == 8.1.0       或以上版本
+```
+
 3. **快速运行**  
    - 在终端或 Python IDE 中运行该脚本：  
      ```bash
