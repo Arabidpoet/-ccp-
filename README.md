@@ -2,14 +2,6 @@
 
 ### 此代码库为使用 **CCP（Cross-view Correlation Projection）方法** 对图像特征进行处理及后续分类的对比实验，以验证模型在三种图像医学数据集上的表现，并输出相应的统计评估结果（Accuracy、F1-score）。
 
-
-## 1. 代码主要结构和介绍
-1. **CCP方法模块（第A部分）**  
-2. **数据加载与特征提取（第B部分）**  
-3. **评估函数（第C部分）**  
-4. **主函数（第D部分）**
-   （其余方法实验代码结构也与此类似）
-   
 ### 三个名为yx cpp1 2 3 的文件夹分别对应数据集123的实验代码和实验数据（csv格式），实验数据文件夹中名为 1 2 3的word文件也分别直观地保留了六种方法（ccp;cca;kcca;rcca;dcca;dccae)的实验数据。###
 
 ## 数据集介绍
@@ -21,6 +13,14 @@
 网址：https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/Br35H.md
 三种数据集均已经上传到百度网盘，方便下载：
 链接: https://pan.baidu.com/s/1UZUF6MYHifsKALbf6wFsBw?pwd=ei8g 提取码: ei8g
+## 1. 代码主要结构和介绍
+1. **CCP方法模块（第A部分）**  
+2. **数据加载与特征提取（第B部分）**  
+3. **评估函数（第C部分）**  
+4. **主函数（第D部分）**
+   （其余方法实验代码结构也与此类似）
+   
+
 ## 2. 使用方法
 
 1. **数据准备**  
