@@ -1,6 +1,6 @@
 
 
-此代码主要针对 **CCP（Cross-view Correlation Projection）方法** 对图像特征进行处理及后续分类的实验，以验证模型在三种图像医学数据集上的表现，并输出相应的统计评估结果（Accuracy、F1-score）。
+# 此代码库为使用 **CCP（Cross-view Correlation Projection）方法** 对图像特征进行处理及后续分类的实验，以验证模型在三种图像医学数据集上的表现，并输出相应的统计评估结果（Accuracy、F1-score）。
 
 
 ## 1. 主要结构
