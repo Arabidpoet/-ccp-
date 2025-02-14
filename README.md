@@ -8,9 +8,9 @@
 2. **数据加载与特征提取（第B部分）**  
 3. **评估函数（第C部分）**  
 4. **主函数（第D部分）**
-   （其余实验代码结构也与此类似）
+   （其余方法实验代码结构也与此类似）
    
-### 三个名为yx cpp1 2 3 的文件夹分别对应数据集123的实验代码和实验数据（cvs格式），实验数据文件夹中名为 1 2 3的word文件也分别直观地保留了六种方法（ccp;cca;kcca;rcca;dcca;dccae)的实验数据。###
+### 三个名为yx cpp1 2 3 的文件夹分别对应数据集123的实验代码和实验数据（csv格式），实验数据文件夹中名为 1 2 3的word文件也分别直观地保留了六种方法（ccp;cca;kcca;rcca;dcca;dccae)的实验数据。###
 
 ## 数据集介绍
 1.SARS-COV-2 Ct-Scan数据集，SARS-COV-2 Ct-Scan 数据集包含 2482 张 CT 肺部扫描图像。此数据集分为两类。
@@ -20,6 +20,7 @@
 3.Br35H数据集：3,000 张脑部 MRI 图像，分为两类：非肿瘤和肿瘤。
 网址：https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/Br35H.md
 三种数据集均已经上传到百度网盘，方便下载：
+链接: https://pan.baidu.com/s/1UZUF6MYHifsKALbf6wFsBw?pwd=ei8g 提取码: ei8g
 ## 2. 使用方法
 
 1. **数据准备**  
